@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background-color: #297fcf;
+    color           : #fff;
+    border          : none;
+    padding         : 0.5em 1em;
+    border-radius   : 5px;
+    cursor          : pointer;
+    font-size       : 16px;
+
+}
+
+input[type="submit"]:hover {
+    background-color: #005bb0;
+}
+
+a:hover {
+    margin-top     : 1000px;
+    color          : #000ce8;
+    text-decoration: none;
+    text-decoration: underline;
+}

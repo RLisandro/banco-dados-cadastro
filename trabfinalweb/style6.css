@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffff;
+    border-style: double;
+    border-color: #0d61d9;
+    border-width: 5px;
+  }
+  a {
+    margin: 50px 80px 50px 90px;
+    color: #000000;
+    text-decoration: Arial, sans-serif, Helvetica, Verdana;
+    text-decoration: none;
+  }
+  h1 {
+    color: #000000;
+    text-decoration: Arial, sans-serif, Helvetica, Verdana;
+    text-align: center;
+  }
+  p{
+    text-align: justify;
+    color: #000000;
+    text-decoration: Arial, sans-serif, Helvetica, Verdana;
+  }
+  input{
+    border-radius: 5px;
+  }
+  
